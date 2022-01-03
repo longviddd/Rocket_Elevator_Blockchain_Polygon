@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x69FDADA0Bc7a6f70aFfb1e392a4a5464E9B9B75F",
+  "CONTRACT_ADDRESS_ROCKET": "0x3b8F02Aa259f1c55fC2afaFF9cC3695074Ff80EB",
+  "SCAN_LINK": "https://polygonscan.com/token/0x1F2215EB06Ae0d3B0615F64a7f8416Ef3fE66673",
+  "NETWORK": {
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Rocket Elevator Artwork",
+  "SYMBOL": "REA",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 10000000000000000,
+  "WEI_COST_PRESALE": 5000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "SHOW_BACKGROUND": true
+}
